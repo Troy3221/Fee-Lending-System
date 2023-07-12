@@ -1,0 +1,84 @@
+body {
+	text-align: center;
+	background-image: url(../img/login-bg3.jpg);
+	height: 100vh;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+    background-size: cover;
+}
+
+.login-button {
+	width: 100%;
+}
+
+.reg-submit {
+	width: auto;
+}
+
+.reg-cancel {
+	background-color: #1AEBB6;
+	border: #1AEBB6;
+	width: auto;
+}
+
+
+.login-label {
+	float: left;
+	font-weight: bolder;
+	font-style: 8vw;
+}
+
+.login-vector {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	height: 250px;
+	width: auto;
+}
+
+.terms-title {
+	float: left;
+	color: #294567;
+}
+
+.home-body {
+	background-image: url('../img/login-bg5.jpg');	
+	background-repeat: no-repeat;
+}
+
+.nav-width {
+	position: fixed;
+	width: 20%;
+	height: 100%;
+}
+
+.nav-width {
+	height: 100%;
+}
+
+.nav-list {
+	margin-top: 20px;
+}
+
+.nav-style {
+	text-align: left;
+}
+
+.dropdown-style {
+	position: absolute;
+	inset: auto auto 0px 0px;
+	margin: 0px;
+	transform: translate(0px, -34px);
+}
+
+
+.main-content {
+	text-align: left;
+}
+
+.background-3 {
+	background-color: #162D58;
+	color: white;
+}
